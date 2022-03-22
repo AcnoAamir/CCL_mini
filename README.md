@@ -1,4 +1,4 @@
 # CCL_mini
 CCL Miniproject
-Thats all
+\n\nThats all
 Thank you
